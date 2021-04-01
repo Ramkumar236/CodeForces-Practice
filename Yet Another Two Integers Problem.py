@@ -6,3 +6,4 @@ while t:
         print(s//10)
     else:
         print(s//10+1)
+    t-=1
